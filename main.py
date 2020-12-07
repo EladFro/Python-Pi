@@ -1,6 +1,6 @@
 #1/usr/bin/python3
 
 def main(msg):
-	//Print the message
+     //Adding the second comment to this file
     print(msg)
 main("Hello People")
